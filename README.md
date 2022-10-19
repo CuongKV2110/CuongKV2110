@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CuongKV2110
 - 👀 I work in Mobile application development
 - 🌱 I’m currently learning Flutter and Java
-- 💞️ I am looking for an Internship
+- 💞️ I am looking for an Fresher Flutter
 - 📫 How to reach me phone number or gmail
 
 <!---
